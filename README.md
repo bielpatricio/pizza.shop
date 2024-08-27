@@ -29,6 +29,28 @@ Learning more about consuming api with react-helmet-async.
 
 1. The backend used in this project can be searched in https://github.com/rocketseat-education/pizzashop-api
 
+  Clone the repository, create the .env, install the  and run the backend
+```bash
+# Clone the back-end repository
+$ git clone https://github.com/rocketseat-education/pizzashop-api.git
+# Access the project folder in your terminal
+$ cd pizzashop-api
+# create a .env
+# run the docker
+$ docker compose up -d
+# Install the dependencies
+$ bun i
+# Run the migrations
+$ bun migrate
+# Run the seed to populate the database
+$ bun seed
+# Run the application in development mode
+$ bun dev
+# The application will open on port: 3333 - go to http://localhost:3333
+```
+
+2. The frontend
+
 ```bash
 # Clone this repository
 $ git clone https://github.com/bielpatricio/pizza.shop
