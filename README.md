@@ -23,7 +23,7 @@
 
 # 💡About The Project
 
-Learning more about consuming api with react-helmet-async.
+Learning more about consuming api with react-helmet-async, @tanstack/react-query.
 
 # 📱 Running locally
 
