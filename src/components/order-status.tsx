@@ -7,9 +7,9 @@ interface OrderStatusProps {
 const orderStatusMap: Record<OrderStatusDTO, string> = {
   pending: 'Pendente',
   canceled: 'Cancelado',
-  processing: 'Em Preparo',
+  delivered: 'Entregue',
   delivering: 'Em entrega',
-  delivered: 'Em entrega',
+  processing: 'Em preparo',
 }
 
 export function OrderStatus({ status }: OrderStatusProps) {
