@@ -68,10 +68,40 @@ $ pnpm run dev
 ## Dark mode
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
+![image](https://github.com/user-attachments/assets/124ccb37-5037-4071-b4cd-df2762fb3974)
+
+![image](https://github.com/user-attachments/assets/83d721f5-5975-4c0e-868f-bf302c985fc6)
+
+![image](https://github.com/user-attachments/assets/d47e3cdc-88a5-4dcf-9582-5b6d2c22e651)
+
+![image](https://github.com/user-attachments/assets/5d28dfd3-ca1b-4c68-8713-d940d3a2e2b1)
+
+![image](https://github.com/user-attachments/assets/2b052a76-860a-4e82-9261-3f2e14c23459)
+
+![image](https://github.com/user-attachments/assets/f19c78a1-661d-4eb6-b647-8986006710c1)
+
+![image](https://github.com/user-attachments/assets/ea4be5c2-d2cc-48c7-bd43-62182729dba0)
+
+![image](https://github.com/user-attachments/assets/ff03a891-3f12-4507-83d1-22f20d00e411)
+
+![image](https://github.com/user-attachments/assets/213b48c6-72f8-40d8-bfd7-a3ad9c57e0f0)
 
 ## Dark mode Off
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
+![image](https://github.com/user-attachments/assets/90c5597a-9ae4-47de-b622-21fa0fbf76ec)
+
+![image](https://github.com/user-attachments/assets/0937c1e1-c4ce-4f7d-8099-8d3d7fb185b7)
+
+![image](https://github.com/user-attachments/assets/c6e5a2d5-52e6-4ace-a7a0-9a06a6920001)
+
+![image](https://github.com/user-attachments/assets/623bb709-44bf-4f57-a75f-e7a8f2fd476e)
+
+![image](https://github.com/user-attachments/assets/7a624ba1-59d3-40b8-96b9-06d089251130)
+
+![image](https://github.com/user-attachments/assets/d6f53d66-e4ac-48ba-a33f-79cd11b63577)
+
+![image](https://github.com/user-attachments/assets/6adc08ab-98b9-4233-85ac-7b4790030ba6)
 
 <br>
 
