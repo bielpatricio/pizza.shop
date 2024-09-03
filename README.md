@@ -23,7 +23,7 @@
 
 # 💡About The Project
 
-Learning more about consuming api with react-helmet-async, @tanstack/react-query.
+Learning more about consuming api with react-helmet-async, @tanstack/react-query. And how do unit tests with vite and tests e2e with playwright.
 
 # 📱 Running locally
 
