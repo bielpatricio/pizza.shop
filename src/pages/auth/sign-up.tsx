@@ -95,7 +95,7 @@ export function SignUp() {
             </div>
 
             <div className="space-y-2">
-              <Label htmlFor="email">Seu celular</Label>
+              <Label htmlFor="phone">Seu celular</Label>
               <Input type="tel" id="phone" {...register('phone')} />
             </div>
 
