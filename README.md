@@ -47,6 +47,10 @@ $ bun seed
 # Run the application in development mode
 $ bun dev
 # The application will open on port: 3333 - go to http://localhost:3333
+# run the tests e2e
+$ pnpm playwright test --ui
+# Run the unit tests
+$ pnpm run dev:test
 ```
 
 2. The frontend
@@ -102,6 +106,11 @@ $ pnpm run dev
 ![image](https://github.com/user-attachments/assets/d6f53d66-e4ac-48ba-a33f-79cd11b63577)
 
 ![image](https://github.com/user-attachments/assets/6adc08ab-98b9-4233-85ac-7b4790030ba6)
+
+## Tests
+
+![image](https://github.com/user-attachments/assets/6355be6b-b3e5-47a6-926e-c93974009948)
+
 
 <br>
 
